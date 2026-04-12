@@ -1,5 +1,7 @@
 # MindWell - AI-Powered Mental Health Assistant
 
+## Download additional files directly from here "https://drive.google.com/drive/folders/1ccnvixCfgB1WzwiM2CH-U9ul2tiVuteE?usp=sharing" and paste it as is in the directory
+
 A full-stack mental health support platform that pairs patients with therapists and provides AI-assisted guidance grounded in therapist-curated knowledge. Built with a Retrieval-Augmented Generation (RAG) pipeline, automated sentiment tracking, and a clinical alert system -- all running locally for complete data privacy.
 
 ---
